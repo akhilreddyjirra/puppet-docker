@@ -1,7 +1,7 @@
 ## For Dev branch
 Clone the dev branch 
 
-Change the name of the folder "puppet-docker" --> dockerinstall
+Change the name of the folder `puppet-docker` --> `dockerinstall`
 
 Crete a file site.pp 
 
